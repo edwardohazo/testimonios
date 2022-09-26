@@ -5,7 +5,7 @@ import Testimonio from './componentes/Testimonio';
 function App() {
 
   const nombre = "Emma Bostian";
-  const pais = "Suecia";
+  const pais = "Dinamarca";
   const imagen = 'emma';
   const cargo = "Ingeniera de Software en Spotify";
   const empresa = "Spotify";
